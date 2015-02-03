@@ -150,5 +150,5 @@ $(function() {
                 d.stop(), a.disableSubmitButtons(!0)
             })
         }
-    }),
+    })
 });
